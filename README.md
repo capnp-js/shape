@@ -1,0 +1,4 @@
+shape
+=====
+
+Inspect a pointer.
